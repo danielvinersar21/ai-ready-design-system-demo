@@ -1,0 +1,18 @@
+{
+  "model": "Claude Opus 5.5",
+  "runsPerSystem": 3,
+  "representative": {
+    "pricing-card": {
+      "unstructured": 1,
+      "ai-ready": 1
+    },
+    "settings-form": {
+      "unstructured": 2,
+      "ai-ready": 2
+    },
+    "dashboard-empty-state": {
+      "unstructured": 3,
+      "ai-ready": 1
+    }
+  }
+}
